@@ -1,12 +1,12 @@
 # 🎓 Student Scores - Machine Learning Regression Project
-### 📌 Project Overview
+## 📌 Project Overview
 This project focuses on analyzing the Student Scores dataset using Exploratory Data Analysis (EDA), applying Feature Engineering, and developing a Machine Learning Regression Model to predict student scores based on various factors.
 
-### 🔍 Key Objectives:
-###### ✔ Gain insights into student performance through data visualization 📊
-###### ✔ Apply data preprocessing techniques for better model accuracy ⚙
-###### ✔ Implement and compare different regression models 🏆
-###### ✔ Evaluate model performance using key regression metrics 📈
+## 🔍 Key Objectives:
+- ✔ Gain insights into student performance through data visualization 📊
+- ✔ Apply data preprocessing techniques for better model accuracy ⚙
+- ✔ Implement and compare different regression models 🏆
+- ✔ Evaluate model performance using key regression metrics 📈
 
 ## 🚀 Step-by-Step Workflow
 #### 1️⃣ Exploratory Data Analysis (EDA) 🔍
@@ -33,9 +33,9 @@ Evaluating model performance using key regression metrics:
 #### 5️⃣ Conclusion 🎯
 After evaluating the models, we determine the best-performing model for predicting student scores.
 
-#### 🔧 Technologies Used 🖥
+## 🔧 Technologies Used 🖥
 - ✅ Python (pandas, numpy, seaborn, matplotlib, scikit-learn)
 - ✅ Jupyter Notebook / Google Colab for analysis & modeling
 
-#### 🏆 Contributor
+## 🏆 Contributor
 ###### 👩‍💻 Asma Nabila Widodo
